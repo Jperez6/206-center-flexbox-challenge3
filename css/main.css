@@ -133,14 +133,15 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  box-shadow: 0px 0px 7px #302e21;
-  text-align: center;
-  /* text-shadow: 1px 1px 5px#a59b3f; */
+  box-shadow: 0px 0px 7px #a55103;
+  /* text-align: center; */
 }
 
 #content p span {
   font-family: "Lora", sans-serif;
-  color: #302e21;
+  color: #a55103;
+  font-weight: bold;
+  text-shadow: 1px 1px 0.7px #2c1600;
 }
 
 #content p {
